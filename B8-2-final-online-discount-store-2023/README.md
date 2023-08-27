@@ -1,4 +1,4 @@
-# SMIT HACKATHON 2023
+# SMIT Batch 8 Final HACKATHON 2023
 
 ## Store app
 
