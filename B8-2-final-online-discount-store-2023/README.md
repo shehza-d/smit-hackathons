@@ -42,12 +42,12 @@
   admin must be able to change order status to one of these predefined–
   status: Pending, In-Progress, delivered, Canceled.
 - Admin will be able to add new product on add Items screen with following information
-  1. a photo of product
-  1. name
-  1. category (dropdown)
-  1. description (upto 300 characters)
-  1. unit name (free text e.g: kg or liter or pcs.)
-  1. unit price in pkr
+  - a photo of product
+  - name
+  - category (dropdown)
+  - description (upto 300 characters)
+  - unit name (free text e.g: kg or liter or pcs.)
+  - unit price in pkr
 - admin must be able to update his/her profile photo and name in account page
 - admin must be able to add more categories with photo in account page
 - admin will have logout button on account page to end the session.
