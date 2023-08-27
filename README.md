@@ -1,4 +1,4 @@
-# SMIT Hackathons
+# Saylani Mass IT Training Program Hackathons
 
 This repo contain all past hackathon projects given to students
 
