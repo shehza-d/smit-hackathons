@@ -1,5 +1,7 @@
 # Saylani Mass IT Training Program Hackathons
 
+## Web & Mobile App Development
+
 This repo contain all past hackathon projects given to students
 
 ## Rules
