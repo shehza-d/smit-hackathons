@@ -6,7 +6,7 @@ b. *Students login/sign up buttons*<br/>
 c. *New courses button*<br/>
 
 ## 2: New Courses Page
-a. View courses <br/>
+a. *View courses* <br/>
 b. *Apply button on each course*<br/>
 c. *Apply button disabled if admissions are closed*<br/>
 d. *Popup for form of admissions details same as saylani online admission system.*
@@ -24,7 +24,7 @@ a. *Form fields for name, username and password* <br/>
 b. *Submit button*
 
 ## 6: Add Students Page
-a. Excel sheet upload button <br/>
+a. *Excel sheet upload button* <br/>
 b. *Save button*
 
 ## 7: Add/Edit/View Courses Page
@@ -66,4 +66,5 @@ b. *Views leaves Status on each leave.*
 ## *Hackathon Explain by Sir Ishaq Bhojani*
 
 
-https://github.com/aliaftabsheikh/aliaftabsheikh/assets/80570243/69c5ead4-422d-4262-af21-5b12eec24e67
+https://github.com/aliaftabsheikh/aliaftabsheikh/assets/80570243/709934ac-8a32-4c79-9df1-0043539aca53
+
