@@ -4,6 +4,8 @@
 
 This repo contain all past hackathon projects given to students
 
+![Saylani SMIT](./web-app.jpeg)
+
 ## Rules
 
 - You can use Internet, books and other resources such as your boilerplate code, however you are not supposed to talk or ask help from other participants of hackathon. SMIT management hold authority to qualify you from hackathon if you violate.
