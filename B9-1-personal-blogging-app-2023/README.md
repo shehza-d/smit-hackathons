@@ -4,6 +4,11 @@
 
 ## [Figma link](https://www.figma.com/file/57xYjZYhVpCQAALtxPH3kO/SMIT-Mini-Hackathon-Task---personal-blogging-app?type=design&node-id=4291%3A2280&mode=design&t=pdxImmaF1j7mrVCF-1)
 
+## Completed By Abdul Ahad
+
+# [Github Repository](https://github.com/ahadsts9901/smit-b9-mini-hackathon)
+# [Live Hosting](https://ahadsts9901.github.io/smit-b9-mini-hackathon/)
+
 ## Rules
 
 - You can use Internet, books and other resources such as your boilerplate code, however you are not supposed to talk or ask help from other participants of hackathon. SMIT management hold authority to qualify you from hackathon if you violate.
