@@ -6,8 +6,8 @@
 
 ## Completed By Abdul Ahad
 
-# [Github Repository](https://github.com/ahadsts9901/smit-b9-mini-hackathon)
-# [Live Hosting](https://ahadsts9901.github.io/smit-b9-mini-hackathon/)
+## [Github Repository](https://github.com/ahadsts9901/smit-b9-mini-hackathon)
+## [Live Hosting](https://ahadsts9901.github.io/smit-b9-mini-hackathon/)
 
 ## Rules
 
