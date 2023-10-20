@@ -4,7 +4,7 @@
 
 ## [Figma link](https://www.figma.com/file/57xYjZYhVpCQAALtxPH3kO/SMIT-Mini-Hackathon-Task---personal-blogging-app?type=design&node-id=4291%3A2280&mode=design&t=pdxImmaF1j7mrVCF-1)
 
-## Completed By Abdul Ahad
+## [Completed By Abdul Ahad](https://github.com/ahadsts9901)
 
 ## [Github Repository](https://github.com/ahadsts9901/smit-b9-mini-hackathon)
 ## [Live Hosting](https://ahadsts9901.github.io/smit-b9-mini-hackathon/)
