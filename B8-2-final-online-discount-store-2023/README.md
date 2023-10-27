@@ -6,6 +6,11 @@
 
 [Figma link](https://www.figma.com/file/e8juVRuVFr41nDUtVX2xlX/design-doc-saylani-online-discount-store?node-id=0%3A1&t=JkIspiDnGy4Z3eTL-0)
 
+## [Completed By Abdul Ahad](https://github.com/ahadsts9901)
+
+## [Github Repository](https://github.com/ahadsts9901/smit-b8-final-hackathon)
+## [Live Hosting](https://ahadsts9901.github.io/smit-b8-final-hackathon/)
+
 |                           |                                              |
 | ------------------------- | -------------------------------------------- |
 | Front end technology:     | React Native / Expo / React PWA (choose one) |
