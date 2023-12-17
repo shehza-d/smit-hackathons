@@ -4,12 +4,25 @@
 
 ### [Figma link](https://www.figma.com/file/ZyGunJ8WtYjvoKOTQTDlVZ/Attendance-App?type=design&node-id=515-3&mode=design&t=P8byLfQhSKLFcQWe-0)
 
-|                           |                                              |
-| ------------------------- | -------------------------------------------- |
-| Front end technology:     | React Native / Expo / React PWA (choose one) |
-| Server technology:        | Nodejs / Express / None (choose one)         |
-| Database technology:      | Firebase / MongoDB (choose one)              |
-| Authentication Technique: | Firebase Auth / JWT (chose one)              |
+#### Option 1
+
+|                           |                  |
+| ------------------------- | ---------------- |
+| Front end technology:     | ReactJs          |
+| Server technology:        | Nodejs / Express |
+| Database technology:      | MongoDB          |
+| Authentication Technique: | JWT              |
+| Admin Panel               | Also on ReactJs  |
+
+#### Option 2
+
+|                           |                     |
+| ------------------------- | ------------------- |
+| Front end technology:     | React Native / Expo |
+| Server technology:        | None                |
+| Database technology:      | Firebase            |
+| Authentication Technique: | Firebase Auth       |
+| Admin Panel               | ReactJs             |
 
 ### Features for User
 
