@@ -6,6 +6,11 @@
 
 #### Option 1
 
+## [Completed By Abdul Ahad](https://github.com/ahadsts9901)
+
+## [Github Repository](https://github.com/ahadsts9901/smit-b9-final-hackathon)
+## [Live Hosting](https://smit-b9-final-hackathon.onrender.com/)
+
 |                           |                  |
 | ------------------------- | ---------------- |
 | Front end technology:     | ReactJs          |
