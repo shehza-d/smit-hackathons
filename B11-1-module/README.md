@@ -1,5 +1,7 @@
 # SMIT Batch 11 Female Module 1 2024
 
+## [Figma link](https://www.figma.com/file/QQANoOBJcjN7Zef7aZcVzr/SMIT-Web-Design-Module-1-(Female)?type=design&node-id=0-1&mode=design&t=Zdz729gL71Q5Ep2k-0)
+
 🎨 **Header Page Design Challenge**
 
 Welcome to the Header Page Design Challenge! Your task is to select a design from the provided options and replicate it within a 2-hour time frame.
