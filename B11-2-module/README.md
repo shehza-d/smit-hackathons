@@ -1,4 +1,4 @@
-# SMIT Batch 11 Female Module 1 2024
+# SMIT Batch 11 Female Module 2 2024
 
 ## [Figma Link](https://www.figma.com/design/2z8ERvVuHVoV5jfAYl4vRw/SMIT---Females?node-id=0-1&t=Tdj6zLsk8opghiar-1)
 
