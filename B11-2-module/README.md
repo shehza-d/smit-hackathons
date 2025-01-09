@@ -32,5 +32,5 @@ Welcome to the Firebase Blog Application Challenge! Your task is to build a full
 
 ## Let’s Get Started!
 
-We are excited to see your creativity, coding skills, and ability to integrate Firebase services. Good luck, and happy coding!
+We’re thrilled to witness your creativity, coding expertise, and seamless integration of Firebase services. Best of luck — happy coding!
 
