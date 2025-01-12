@@ -1,4 +1,4 @@
-# SMIT Batch 11 Female Module 1 2024
+# SMIT Batch 11 Female Module 2 2024
 
 ## [Figma Link](https://www.figma.com/design/2z8ERvVuHVoV5jfAYl4vRw/SMIT---Females?node-id=0-1&t=Tdj6zLsk8opghiar-1)
 
@@ -32,5 +32,5 @@ Welcome to the Firebase Blog Application Challenge! Your task is to build a full
 
 ## Let’s Get Started!
 
-We are excited to see your creativity, coding skills, and ability to integrate Firebase services. Good luck, and happy coding!
+We’re thrilled to witness your creativity, coding expertise, and seamless integration of Firebase services. Best of luck — happy coding!
 
