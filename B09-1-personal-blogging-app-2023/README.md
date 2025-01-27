@@ -21,7 +21,7 @@ This design document is created using bootstrap 5 components, how ever you are f
 
 ## Signup page
 
-- Signup page must have to have email and password signup option you can use firebase authentication however you are free to use other authentication options if you want.
+- Signup page must have to have email and password signup option you can use firebase authentication however you are free to use other authentication options if you want.
 - First and last name is required, first name should be atleast 3 characters and last name should be atleast 1 character, firstname and last name field should not exceed 20 characters, enforced through html5 validation.
 - Email field is required and must includes @ enforced through html5 validation.
 - Password field is required and must have to have atleast 8 characters and must include capital and small later characters, enforced through html5 validation.
