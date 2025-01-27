@@ -10,5 +10,5 @@ I was to see the energy of the students and the passion to learn and grow all ni
 
 Hackathon had 2 options for tasks
 
-- [Beneficciary Management App](./Beneficciary-management-app.pdf)
-- [Saylani Microfinance App](./Saylani-Microfinance-App.pdf)
+- Beneficciary Management App [pdf](./Beneficciary-management-app.pdf) [video explanation](https://youtu.be/6x-IsZSCMz8)
+- Saylani Microfinance App [pdf](./Saylani-Microfinance-App.pdf) [video explanation](https://youtu.be/O-CfQDYA95w)
